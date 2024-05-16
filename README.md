@@ -8,7 +8,8 @@
  ### 📍  Puebla, México
 
  ## SOBRE MI
- ##### Me interesa el Bussiness Intelligence y Data Analysis
+ #### Me interesa el Bussiness Intelligence y Data Analysis
+ 
 
 
 ## C O N T A C T A M E 
