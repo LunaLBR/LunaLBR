@@ -50,14 +50,11 @@ Currently focused on expanding projects related to transportation analytics, aut
 
 ---
 
-## Contact
-
 ## C O N T A C T A M E
 
-<a href="https://www.linkedin.com/in/laurabluna/?locale=en-US" target="_blank">
+<a href="https://www.linkedin.com/in/laurabluna/?locale=en-US" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 
 ## MIS HABILIDADES
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
