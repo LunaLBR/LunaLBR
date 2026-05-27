@@ -1,16 +1,58 @@
-### Hi there 👋
+# Hi there 👋
 
+💼 Currently working as Credit Analyst at Softys  
+📊 Economist specialized in Data Analytics & Business Intelligence  
+🤖 Interested in Data Science, Machine Learning & Automation  
+📍 Puebla, Mexico  
 
+---
 
- ### 💼 Actualmente me encuentro trabajando en Softys 💙
-### 📝 Estudiante de Economía
-### 🌱 Estoy aprendiendo HTML y CSS
- ### 📍  Puebla, México
+## About Me
 
- ## SOBRE MI
- #### Me interesa el Bussiness Intelligence y Data Analysis
- 
+Economist with experience in data analysis, financial operations, workflow automation and business intelligence.
 
+Passionate about developing data-driven solutions using Python, R, SQL, Excel-VBA and visualization tools. My interests include predictive analytics, machine learning, economic research and operational optimization.
+
+Currently focused on expanding projects related to transportation analytics, automation systems and applied data science.
+
+---
+
+## Technical Skills
+
+- Python
+- R
+- SQL
+- Excel & VBA
+- Power BI
+- SAP / Oracle ERP
+- HTML & CSS
+- Data Visualization
+- Machine Learning
+- Business Intelligence
+
+---
+
+## Certifications
+
+- Harvard University – Data Science Professional Certificate
+- Oracle & No Country – Data Science and Machine Learning
+- BEDU – Data Science with Python
+
+---
+
+## Featured Interests
+
+📈 Economic Analytics  
+🚍 Urban Mobility & Transportation Data  
+🤖 Machine Learning  
+📊 Business Intelligence  
+⚡ Process Automation  
+
+---
+
+## Contact
+
+[LinkedIn](TU_LINKEDIN)
 
 ## C O N T A C T A M E 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
